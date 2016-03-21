@@ -1,6 +1,28 @@
 @media (max-width: 1600px) {
 #room .app-right {
-    background: rgb(0,0,0);
+    background: none;
     }
 }
+
+#room .app-right {
+    background: none;
+}
+
+#chat-input {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 326px;
+    height: 30px;
+    border: 2px solid #282C36;
+}
+
+#chat-input:focus {
+    outline: none;
+}
+
+#chat .cm:nth-child(2n+1) {
+    background: none;
+}
+
 
