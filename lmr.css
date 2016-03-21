@@ -1,5 +1,3 @@
-@media (max-width: 1600px) {
-#room .app-right {
-    background: rgb(31,68,110);
-  }
+#user-lists .list.room .user.role-host .name {
+    color: #a2aec4;
 }
