@@ -26,4 +26,8 @@ input[type=text]:focus {
     background: none;
 }
 
+.app-header {
+    background: #1c1f25;
+}
+
 
