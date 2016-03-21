@@ -1,11 +1,11 @@
 @media (max-width: 1600px) {
 #room .app-right {
-    background: none;
+    background: black;
     }
 }
 
 #room .app-right {
-    background: none;
+    background: black;
 }
 
 #chat-input {
