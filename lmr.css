@@ -18,7 +18,7 @@
     background: none;
 }
 
-#chat-input-field:focus {
+input[type=text]:focus {
     outline: none;
 }
 
