@@ -1,7 +1,7 @@
 {
     "room":                     "♫♪♫LatvianPartyRoom♫♪♫",
     "author":                   "imperiālists",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     "",
     "css":                      "https://cdn.rawgit.com/Sunciits/lmr-style/master/lmr.css",
     "rules": {
         "allowAutorespond":     true,
